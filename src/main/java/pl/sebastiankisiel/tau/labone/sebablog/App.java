@@ -1,4 +1,4 @@
-package pl.sebablog;
+package pl.sebastiankisiel.tau.labone.sebablog;
 
 /**
  * Hello world!

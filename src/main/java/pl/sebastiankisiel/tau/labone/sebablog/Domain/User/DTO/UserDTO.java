@@ -1,4 +1,4 @@
-package pl.sebablog.Domain.User.DTO;
+package pl.sebastiankisiel.tau.labone.sebablog.Domain.User.DTO;
 
 public class UserDTO {
 

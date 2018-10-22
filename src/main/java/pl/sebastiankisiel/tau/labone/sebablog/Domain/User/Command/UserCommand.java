@@ -1,4 +1,4 @@
-package pl.sebablog.Domain.User.Command;
+package pl.sebastiankisiel.tau.labone.sebablog.Domain.User.Command;
 
 public class UserCommand {
 
