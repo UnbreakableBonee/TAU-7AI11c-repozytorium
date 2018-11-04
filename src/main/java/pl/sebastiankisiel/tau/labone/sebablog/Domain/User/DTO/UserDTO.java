@@ -1,5 +1,7 @@
 package pl.sebastiankisiel.tau.labone.sebablog.Domain.User.DTO;
 
+import java.time.LocalDateTime;
+
 public class UserDTO {
 
     private int id;
